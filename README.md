@@ -16,6 +16,7 @@ Built with Streamlit to ensure an intuitive and engaging user experience.
 
 ## Exmaple
 
-![App](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App](<img width="949" alt="bank2" src="https://github.com/user-attachments/assets/06c922dc-2442-483e-b254-2962f3cd5a51">
+)
 
 
